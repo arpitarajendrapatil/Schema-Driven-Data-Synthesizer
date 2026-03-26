@@ -1,0 +1,72 @@
+2026-03-23 19:14:22,639 - INFO - Generating INT field: order_id
+2026-03-23 19:14:22,639 - INFO - Generating REGEX/STRING field: customer_name
+2026-03-23 19:14:22,639 - INFO - Generating REGEX/STRING field: customer_email
+2026-03-23 19:14:22,639 - INFO - Generating REGEX/STRING field: product_id
+2026-03-23 19:14:22,640 - INFO - Generating SET field: product_category
+2026-03-23 19:14:22,640 - ERROR - Error generating DATETIME field [order_date]: not enough values to unpack (expected 2, got 1)
+2026-03-23 19:14:22,640 - INFO - Generating INT field: quantity
+2026-03-23 19:14:22,640 - INFO - Generating FLOAT field: price
+2026-03-23 19:14:22,640 - INFO - Generating SET field: payment_status
+2026-03-23 19:14:22,640 - INFO - Generating REGEX/STRING field: shipping_address
+2026-03-23 19:14:22,640 - INFO - CSV file generated successfully: Input_Data_Details_generated.csv
+2026-03-23 19:14:22,640 - INFO - --------------------------------------------------------------------------------------------------------------
+2026-03-24 16:53:17,342 - INFO - Generating INT field: order_id
+2026-03-24 16:53:17,364 - INFO - Generating REGEX/STRING field: customer_name
+2026-03-24 16:53:17,370 - INFO - Generating REGEX/STRING field: customer_email
+2026-03-24 16:53:17,375 - INFO - Generating REGEX/STRING field: product_id
+2026-03-24 16:53:17,381 - INFO - Generating SET field: product_category
+2026-03-24 16:53:17,401 - ERROR - Error generating DATETIME field [order_date]: not enough values to unpack (expected 2, got 1)
+2026-03-24 16:53:17,531 - INFO - Generating INT field: quantity
+2026-03-24 16:53:17,548 - INFO - Generating FLOAT field: price
+2026-03-24 16:53:17,577 - INFO - Generating SET field: payment_status
+2026-03-24 16:53:17,597 - INFO - Generating REGEX/STRING field: shipping_address
+2026-03-24 16:53:17,602 - ERROR - Error writing CSV file: [Errno 28] No space left on device: 'Input_Data_Details_generated.csv'
+2026-03-24 16:53:17,602 - INFO - --------------------------------------------------------------------------------------------------------------
+2026-03-24 16:53:47,930 - INFO - Generating INT field: order_id
+2026-03-24 16:53:47,941 - INFO - Generating REGEX/STRING field: customer_name
+2026-03-24 16:53:47,943 - INFO - Generating REGEX/STRING field: customer_email
+2026-03-24 16:53:47,946 - INFO - Generating REGEX/STRING field: product_id
+2026-03-24 16:53:47,950 - INFO - Generating SET field: product_category
+2026-03-24 16:53:47,960 - ERROR - Error generating DATETIME field [order_date]: not enough values to unpack (expected 2, got 1)
+2026-03-24 16:53:48,023 - INFO - Generating INT field: quantity
+2026-03-24 16:53:48,032 - INFO - Generating FLOAT field: price
+2026-03-24 16:53:48,046 - INFO - Generating SET field: payment_status
+2026-03-24 16:53:48,056 - INFO - Generating REGEX/STRING field: shipping_address
+2026-03-24 16:53:48,062 - ERROR - Error writing CSV file: [Errno 28] No space left on device: 'Input_Data_Details_generated.csv'
+2026-03-24 16:53:48,062 - INFO - --------------------------------------------------------------------------------------------------------------
+2026-03-24 16:54:58,725 - INFO - Generating INT field: order_id
+2026-03-24 16:54:58,726 - INFO - Generating REGEX/STRING field: customer_name
+2026-03-24 16:54:58,726 - INFO - Generating REGEX/STRING field: customer_email
+2026-03-24 16:54:58,726 - INFO - Generating REGEX/STRING field: product_id
+2026-03-24 16:54:58,726 - INFO - Generating SET field: product_category
+2026-03-24 16:54:58,726 - ERROR - Error generating DATETIME field [order_date]: not enough values to unpack (expected 2, got 1)
+2026-03-24 16:54:58,726 - INFO - Generating INT field: quantity
+2026-03-24 16:54:58,726 - INFO - Generating FLOAT field: price
+2026-03-24 16:54:58,726 - INFO - Generating SET field: payment_status
+2026-03-24 16:54:58,726 - INFO - Generating REGEX/STRING field: shipping_address
+2026-03-24 16:54:58,730 - ERROR - Error writing CSV file: [Errno 28] No space left on device: 'Input_Data_Details_generated.csv'
+2026-03-24 17:06:44,431 - INFO - Generating INT field: order_id
+2026-03-25 17:24:06,337 - INFO - Generating INT field: order_id
+2026-03-25 17:24:06,337 - INFO - Generating REGEX/STRING field: customer_name
+2026-03-25 17:24:06,337 - INFO - Generating REGEX/STRING field: customer_email
+2026-03-25 17:24:06,337 - INFO - Generating REGEX/STRING field: product_id
+2026-03-25 17:24:06,337 - INFO - Generating SET field: product_category
+2026-03-25 17:24:06,337 - ERROR - Error generating DATETIME field [order_date]: not enough values to unpack (expected 2, got 1)
+2026-03-25 17:24:06,337 - INFO - Generating INT field: quantity
+2026-03-25 17:24:06,337 - INFO - Generating FLOAT field: price
+2026-03-25 17:24:06,337 - INFO - Generating SET field: payment_status
+2026-03-25 17:24:06,338 - INFO - Generating REGEX/STRING field: shipping_address
+2026-03-25 17:24:06,338 - INFO - CSV file generated successfully: Input_Data_Details_generated.csv
+2026-03-25 17:24:06,338 - INFO - --------------------------------------------------------------------------------------------------------------
+2026-03-25 17:24:55,552 - INFO - Generating INT field: order_id
+2026-03-25 17:24:55,572 - INFO - Generating REGEX/STRING field: customer_name
+2026-03-25 17:24:55,577 - INFO - Generating REGEX/STRING field: customer_email
+2026-03-25 17:24:55,582 - INFO - Generating REGEX/STRING field: product_id
+2026-03-25 17:24:55,587 - INFO - Generating SET field: product_category
+2026-03-25 17:24:55,602 - ERROR - Error generating DATETIME field [order_date]: not enough values to unpack (expected 2, got 1)
+2026-03-25 17:24:55,723 - INFO - Generating INT field: quantity
+2026-03-25 17:24:55,739 - INFO - Generating FLOAT field: price
+2026-03-25 17:24:55,768 - INFO - Generating SET field: payment_status
+2026-03-25 17:24:55,786 - INFO - Generating REGEX/STRING field: shipping_address
+2026-03-25 17:24:55,975 - INFO - CSV file generated successfully: Input_Data_Details_generated.csv
+2026-03-25 17:24:55,975 - INFO - --------------------------------------------------------------------------------------------------------------
