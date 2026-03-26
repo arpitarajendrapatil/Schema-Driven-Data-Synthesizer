@@ -1,0 +1,5 @@
+# Core dependencies for Schema-Driven-Data-Synthesizer
+pandas
+rstr
+jproperties
+openpyxl
